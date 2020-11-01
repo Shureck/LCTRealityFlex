@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">МОСКУЛЬТУРА</string>
+    <string name="all_button">Всё</string>
+    <string name="books_button">Книги</string>
+    <string name="courses_string">Кружки</string>
+    <string name="other_string">Другое</string>
+    <string name="events_string">Мероприятия</string>
+
+    <string name="adventures">Приключения</string>
+    <string name="sci_fi">Фантастика</string>
+    <string name="detective">Детектив</string>
+    <string name="history">История</string>
+
+    <string name="mythic">Мистика</string>
+    <string name="thriller">Триллер</string>
+    <string name="poetry">Поэзия</string>
+    <string name="war">Военная\nлитература</string>
+
+    <string name="children">Детская\nлитература</string>
+    <string name="fantasy">Фэнтези</string>
+    <string name="comix">Комиксы</string>
+    <string name="tech">Техн.\nлитература</string>
+    <string name="philosophy">Философия</string>
+    <string name="sci_pop">Научпоп</string>
+
+    <string name="welcome_string">Добро пожаловать!</string>
+    <string name="selection_string">Выберите до 5 любимых Вами жанров фильмов или книг:</string>
+    <string name="next_string">Далее</string>
+</resources>
